@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+PyJWT
+passlib[bcrypt]
+bcrypt==3.2.2
+httpx
